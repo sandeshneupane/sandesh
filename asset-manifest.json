@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sandesh/static/css/main.34de6062.chunk.css",
+    "main.js": "/sandesh/static/js/main.689897d5.chunk.js",
+    "main.js.map": "/sandesh/static/js/main.689897d5.chunk.js.map",
+    "runtime~main.js": "/sandesh/static/js/runtime~main.8e5a97e3.js",
+    "runtime~main.js.map": "/sandesh/static/js/runtime~main.8e5a97e3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/sandesh/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.6b2c380d.chunk.js": "/sandesh/static/js/2.6b2c380d.chunk.js",
+    "static/js/2.6b2c380d.chunk.js.map": "/sandesh/static/js/2.6b2c380d.chunk.js.map",
+    "index.html": "/sandesh/index.html",
+    "precache-manifest.07fba995a02a2e6360a6edc8a903b898.js": "/sandesh/precache-manifest.07fba995a02a2e6360a6edc8a903b898.js",
+    "service-worker.js": "/sandesh/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/sandesh/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/sandesh/static/css/main.34de6062.chunk.css.map"
+  }
+}
